@@ -1,0 +1,64 @@
+.box div{
+width: 150px;
+height: 30px;
+background-color: red;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+
+.box{
+    display: flex;
+justify-content: center;
+justify-content: space-around;
+
+
+}
+
+.box1{
+display: flex;
+justify-content: space-around;
+margin-top: 80px;
+
+}
+.box2 div{
+width: 170px;
+height: 80px;
+background-color: black;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 30px;
+
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box3 div{
+width: 250px;
+    height: 100px;
+    background-color: yellow;
+    border: 50px solid red;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.box0{
+    width: 90%;
+    height: 600px;
+    background-color: rgb(111, 107, 107);
+    border-radius: 50px;
+}
